@@ -22,36 +22,37 @@ const track = async () => {
 function App() {
   const steps = [
     {
-      content: "Heyyyyy, pretty girl.",
+      content: "Hey there, my beautiful ❤️girl.",
       image: "/character/one.png",
     },
     {
-      content: `Recently, we met.
-      And somehow, you've been on my mind ever since.
+      content: `It feels like magic... ✨  
+  The moment we met, something in my world changed forever
       `,
       image: "/character/two.png",
     },
     {
-      content: `Then we went on our first date…And I realized—yep, I want this girl. For life.
+      content: `Then we had our first date, and honestly…  
+  I knew right then—I want to hold on to you forever.
       `,
       image: "/character/three.png",
     },
     {
-      content: `You're beautiful, you're smart, you're fun,
-and you make spending time together feel too short.`,
+      content: `You're not just beautiful. You're everything—  
+  Kind, smart, funny, and somehow, always on my mind.`,
       image: "/character/four.png",
     },
     {
-      content: `I look forward to when I'll see you again,
-hold your hands, and look into your pretty eyes.`,
+      content: ` can’t wait for the next time we’re together…  
+  To hold your hand, get lost in your eyes, and forget the world around us. 🥰`,
       image: "/character/five.png",
     },
     {
-      content: "So now I've got a question for you…",
+      content: "But there’s something I’ve been meaning to ask… 💭",
       image: "/character/six.png",
     },
     {
-      content: "Will you be my Valentine?",
+      content: "Will you be my Valentine? my love? 💍 ",
       image: "/character/seven.png",
     },
   ];
@@ -88,6 +89,7 @@ hold your hands, and look into your pretty eyes.`,
               className="text-white text-4xl font-bold"
             >
               Yayyyyyyy!!!!!
+              ❤️❤️ I Love You Pukuliiiii ❤️❤️
             </motion.h1>
             <img
               src="/character/yayyyy.png"
@@ -154,7 +156,7 @@ hold your hands, and look into your pretty eyes.`,
               }}
               className="bg-white text-[#FFC5D3] py-3 text-xl rounded-xl w-full mt-2 font-semibold"
             >
-              Yes
+              Ofcourse Yes!! My Honey 😘
             </button>
           </>
         )}
